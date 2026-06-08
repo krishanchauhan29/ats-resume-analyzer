@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+pdfplumber
+pytesseract
+pillow
+python-docx
+nltk
+reportlab
+xlsxwriter
