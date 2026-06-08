@@ -3,7 +3,7 @@
 An AI-powered ATS Resume Analyzer that scores your resume against industry-standard criteria across 19 job roles with detailed feedback and downloadable reports.
 
 ## 🔴 Live Demo
-👉 [Click here to try the live app]([STREAMLIT_LINK_YAHAN_PASTE_KARO])
+👉 [Click here to try the live app](https://ats-resume-analyzer292003.streamlit.app/)
 
 ## ✨ Features
 - 📄 **Multi-format Input** — PDF, Image (PNG/JPG), DOCX
